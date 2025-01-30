@@ -1,0 +1,5 @@
+#Mirror on korea with Yui's lastname 
+Server = http://mirror.funami.tech/arch/$repo/os/$arch
+
+#yuki Lovers:
+Server = https://mirror.yuki.net.uk/archlinux/$repo/os/$arch
